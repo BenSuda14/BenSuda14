@@ -38,7 +38,7 @@ Autonomous wireless food-delivery robot built with a 6-person team to improve fo
 * 📡 Developed embedded software integrating wireless communication, sensor inputs, and robot control
 * 🏆 Named a finalist for Most Impactful Project in CU Boulder Undergraduate Projects
 
-## Tech
+**Tech**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
@@ -51,7 +51,7 @@ React Native and Expo app for the nonprofit Eco-Cycle, serving 1000+ volunteers 
 * 💬 Moderated community channels
 * 🔌 Integrated with Eco-Cycle's EveryAction CRM API to link app users to existing volunteer records
 
-## Tech
+**Tech**
 
 ![React](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
@@ -65,7 +65,7 @@ Roblox game built in Luau that consistently reached 300 concurrent users and sur
 * 📈 Surpassed 200k visits
 * ⚙️ Combined scripting and UI backends using Luau and Roblox's object-oriented API
 
-## Tech
+**Tech**
 
 ![Roblox](https://img.shields.io/badge/Roblox-E2231A?style=flat&logo=roblox&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat)
@@ -78,7 +78,7 @@ Python tool that predicts how long my tasks will take, cutting average predictio
 * 🎯 Average error reduced from 58 to 23 minutes against a category-median baseline
 * 🤖 Ridge regression model with scikit-learn in progress
 
-## Tech
+**Tech**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
