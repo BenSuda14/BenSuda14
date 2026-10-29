@@ -30,20 +30,6 @@ I love problems where there is possibility for innovation and solution.
 
 ## 🚀 Featured Projects
 
-**🤖 Munch Mobile**
-
-Autonomous wireless food-delivery robot built with a 6-person team to improve food distribution to shelters and food banks.
-
-* 🧭 Led software development for the robot
-* 📡 Developed embedded software integrating wireless communication, sensor inputs, and robot control
-* 🏆 Named a finalist for Most Impactful Project in CU Boulder Undergraduate Projects
-
-**Tech**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
-
-##
 
 **📱 Eco-Cycle Volunteer Mobile App**
 
