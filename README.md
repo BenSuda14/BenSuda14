@@ -1,6 +1,6 @@
 ## Hi, I'm Ben Suda 👋
 
-```
+```python
 class BenSuda:
     role = "Student @ CU Boulder"
     education = "B.S. Electrical & Computer Engineering, CU Boulder '29"
