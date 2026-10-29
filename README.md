@@ -25,7 +25,7 @@ class BenSuda:
 
 I'm a student focused on Electrical Engineering with a passion for Software.
 
-I love problems where there is possibility for innovation and solution.
+I **love** problems where there is possibility for innovation and solution.
 
 
 ____________________________________________________________________________________________________
