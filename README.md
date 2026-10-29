@@ -90,18 +90,36 @@ Python tool that predicts how long my tasks will take, cutting average predictio
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 
+## 🛠 Tech Stack
 
-<!--
-**BenSuda14/BenSuda14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=flat)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software & Dev Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=flat&logo=arduino&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Hardware & Design Tools
+
+![Vivado](https://img.shields.io/badge/Vivado-6E1E8C?style=flat)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-E26F2A?style=flat)
+![Onshape](https://img.shields.io/badge/Onshape-2A7AB0?style=flat)
+![LTspice](https://img.shields.io/badge/LTspice-0B6E4F?style=flat)
+![WaveForms](https://img.shields.io/badge/WaveForms-5C6BC0?style=flat)
+![Altium](https://img.shields.io/badge/Altium-1C2B39?style=flat)
+
+## 📫 Connect
+
+* 💼 LinkedIn: https://linkedin.com/in/ben-suda
+* 🐙 GitHub: https://github.com/BenSuda14
+* 📧 bsuda111@gmail.com
