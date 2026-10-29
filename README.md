@@ -109,14 +109,6 @@ Python tool that predicts how long my tasks will take, cutting average predictio
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=flat&logo=arduino&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### Hardware & Design Tools
-
-![Vivado](https://img.shields.io/badge/Vivado-6E1E8C?style=flat)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-E26F2A?style=flat)
-![Onshape](https://img.shields.io/badge/Onshape-2A7AB0?style=flat)
-![LTspice](https://img.shields.io/badge/LTspice-0B6E4F?style=flat)
-![WaveForms](https://img.shields.io/badge/WaveForms-5C6BC0?style=flat)
-![Altium](https://img.shields.io/badge/Altium-1C2B39?style=flat)
 
 ## 📫 Connect
 
