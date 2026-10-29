@@ -113,5 +113,4 @@ Python tool that predicts how long my tasks will take, cutting average predictio
 ## 📫 Connect
 
 * 💼 LinkedIn: https://linkedin.com/in/ben-suda
-* 🐙 GitHub: https://github.com/BenSuda14
 * 📧 bsuda111@gmail.com
