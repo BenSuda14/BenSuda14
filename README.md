@@ -1,8 +1,9 @@
 ## Hi, I'm Ben Suda 👋
 
+```
 class BenSuda:
     role = "Student @ CU Boulder"
-    education = "B.S. Electrical & Computer Engineering, CU Boulder '29"]
+    education = "B.S. Electrical & Computer Engineering, CU Boulder '29"
 
     interests = [
         "Embedded Systems",
@@ -20,14 +21,38 @@ class BenSuda:
     philosophy = (
         "Build innovation that transforms data into decisions."
     )
+```
 
-🛠 Tech Stack
+I'm a student focused on Electrical Engineering with a passion for Software.
+
+I love problems where there is possibility for innovation and solution.
+
+
+## 🚀 Featured Projects
+
+**🤖 Munch Mobile**
+Autonomous wireless food-delivery robot built with a 6-person team. Led software development, and we were named finalists for Most Impactful Project in CU Boulder Undergraduate Projects.
+Tech
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge)
 
+**📱 Eco-Cycle Volunteer Mobile App**
+React Native and Expo app for the nonprofit Eco-Cycle, serving 1000+ volunteers in Boulder.
+Tech
+![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
+**🎮 Draw & Ski**
+Roblox game built in Luau that consistently reached 300 concurrent users and surpassed 200k visits.
+Tech
+![Roblox](https://img.shields.io/badge/Roblox-E2231A?style=for-the-badge&logo=roblox&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge)
+
+**📊 Task Duration Estimator**
+Python tool that predicts how long my tasks will take, cutting average prediction error from 58 to 23 minutes across 91 logged tasks.
+Tech
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
 
