@@ -32,40 +32,56 @@ I love problems where there is possibility for innovation and solution.
 
 **🤖 Munch Mobile**
 
-Autonomous wireless food-delivery robot built with a 6-person team. Led software development, and we were named finalists for Most Impactful Project in CU Boulder Undergraduate Projects.
+Autonomous wireless food-delivery robot built with a 6-person team to improve food distribution to shelters and food banks.
 
-Tech
+* 🧭 Led software development for the robot
+* 📡 Developed embedded software integrating wireless communication, sensor inputs, and robot control
+* 🏆 Named a finalist for Most Impactful Project in CU Boulder Undergraduate Projects
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+## Tech
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 
 **📱 Eco-Cycle Volunteer Mobile App**
 
 React Native and Expo app for the nonprofit Eco-Cycle, serving 1000+ volunteers in Boulder.
 
-Tech
+* 📅 Event registration and training completion for volunteer leaders
+* 💬 Moderated community channels
+* 🔌 Integrated with Eco-Cycle's EveryAction CRM API to link app users to existing volunteer records
 
-![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+## Tech
+
+![React](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![EveryAction](https://img.shields.io/badge/EveryAction_API-4B5563?style=flat)
 
 **🎮 Draw & Ski**
 
 Roblox game built in Luau that consistently reached 300 concurrent users and surpassed 200k visits.
 
-Tech
+* 👥 Consistently reached 300 concurrent users
+* 📈 Surpassed 200k visits
+* ⚙️ Combined scripting and UI backends using Luau and Roblox's object-oriented API
 
-![Roblox](https://img.shields.io/badge/Roblox-E2231A?style=for-the-badge&logo=roblox&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge)
+## Tech
+
+![Roblox](https://img.shields.io/badge/Roblox-E2231A?style=flat&logo=roblox&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat)
 
 **📊 Task Duration Estimator**
 
 Python tool that predicts how long my tasks will take, cutting average prediction error from 58 to 23 minutes across 91 logged tasks.
 
-Tech
+* 🧮 Groups similar past tasks and corrects my own time guesses, using only the standard library
+* 🎯 Average error reduced from 58 to 23 minutes against a category-median baseline
+* 🤖 Ridge regression model with scikit-learn in progress
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+## Tech
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 
 
