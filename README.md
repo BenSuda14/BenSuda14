@@ -43,6 +43,8 @@ Autonomous wireless food-delivery robot built with a 6-person team to improve fo
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 
+##
+
 **📱 Eco-Cycle Volunteer Mobile App**
 
 React Native and Expo app for the nonprofit Eco-Cycle, serving 1000+ volunteers in Boulder.
@@ -57,6 +59,8 @@ React Native and Expo app for the nonprofit Eco-Cycle, serving 1000+ volunteers 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![EveryAction](https://img.shields.io/badge/EveryAction_API-4B5563?style=flat)
 
+##
+
 **🎮 Draw & Ski**
 
 Roblox game built in Luau that consistently reached 300 concurrent users and surpassed 200k visits.
@@ -69,6 +73,8 @@ Roblox game built in Luau that consistently reached 300 concurrent users and sur
 
 ![Roblox](https://img.shields.io/badge/Roblox-E2231A?style=flat&logo=roblox&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat)
+
+##
 
 **📊 Task Duration Estimator**
 
